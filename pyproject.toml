@@ -8,3 +8,9 @@ dependencies = [
     "email-validator>=2.3.0",
     "ipython>=9.9.0",
 ]
+[dependency-groups]
+dev = [
+    "ruff>=0.14.13",
+]
+[tool.ruff]
+line-length = 88
