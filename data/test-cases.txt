@@ -1,7 +1,7 @@
 mertz@gnosis.cx
 "User Name" <user@gmail.com>
 "User Name" <user@example.gov>
-"david mertz"@gmail.com'
+"david mertz"@gmail.com
 name@example.com
 name@kfjasdflkj.com
 José@gmail.com
