@@ -96,7 +96,7 @@ the data produced.
       <td></td>
     </tr>
     <tr>
-      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@mail.me</td>
+      <td>aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa@mail.me</td>
       <td></td>
       <td></td>
       <td>The email address is too long before the @-sign (1 character too many).</td>
