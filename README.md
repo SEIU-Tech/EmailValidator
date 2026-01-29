@@ -36,21 +36,21 @@ the data produced.
       <td></td>
     </tr>
     <tr>
-      <td>User Name &lt;user@gmail.com&gt;</td>
+      <td>"User Name" &lt;user@gmail.com&gt;</td>
       <td>user@gmail.com</td>
       <td>user@gmail.com</td>
       <td></td>
     </tr>
     <tr>
-      <td>User Name &lt;user@example.gov&gt;</td>
+      <td>"User Name" &lt;user@example.gov&gt;</td>
       <td></td>
       <td></td>
       <td>The domain name example.gov does not accept email.</td>
     </tr>
     <tr>
-      <td>david mertz@gmail.com</td>
-      <td>david mertz@gmail.com</td>
-      <td>david mertz@gmail.com</td>
+      <td>"david mertz"@gmail.com</td>
+      <td>"david mertz"@gmail.com</td>
+      <td>"david mertz"@gmail.com</td>
       <td></td>
     </tr>
     <tr>
