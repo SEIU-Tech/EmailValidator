@@ -90,9 +90,9 @@ the data produced.
       <td>An email address must have an @-sign.</td>
     </tr>
     <tr>
-      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@mail.me</td>
-      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@mail.me</td>
-      <td>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@mail.me</td>
+      <td>aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaa@mail.me</td>
+      <td>aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaa@mail.me</td>
+      <td>aaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaa@mail.me</td>
       <td></td>
     </tr>
     <tr>
