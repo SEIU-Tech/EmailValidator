@@ -8,6 +8,7 @@ def validate_emails(
 ):
     print("Email\tNormalized\tASCII\tError", file=out)
     for email in emails:
+        email = email.strip()  # Remove leading/trailing whitespace
         try:
             info = validate_email(
                 email,
