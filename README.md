@@ -1,4 +1,4 @@
-# EmailValidator
+# This is the EmailValidator
 
 Validate Email Addressed to Clean Mailing Lists.
 
